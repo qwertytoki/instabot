@@ -4,7 +4,7 @@
     Workflow:
         Like last images with hashtag.
 """
-# coding:utf-8
+# coding:utf-8  //tagに日本語入れるため対応
 
 import argparse
 import os
